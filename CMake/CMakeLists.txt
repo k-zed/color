@@ -1,6 +1,6 @@
 INCLUDE(InstallRequiredSystemLibraries)
 
-#SET(CPACK_GENERATOR DMG)
+SET(CPACK_GENERATOR DEB)
 SET(CPACK_PACKAGE_NAME "color")
 <<<<<<< Updated upstream
 SET(CPACK_PACKAGE_VERSION "0.8")
